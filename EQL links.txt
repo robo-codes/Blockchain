@@ -1,0 +1,2 @@
+EQL links
+https://rmod.inria.fr/archives/papers/Braga18b-WETSEB-Query.pdf
